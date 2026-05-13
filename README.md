@@ -4,7 +4,8 @@
 Dugout Dynasty is a gamified fan engagement platform built to transform the T20 viewing experience. Unlike standard trackers, this system creates a **"Loyalty Loop"** through real-time rewards, verified predictions, and an adaptive AI progression system powered by **Gemini 2.5 Flash**.
 
 ---
-
+## 🎮 CLOUD RUN
+LIVE DEMO LINK - [https://dugout-dynasty-74863738813.asia-northeast1.run.app]
 ## 🎮 Gamification Mechanics
 
 - **✨ Aura Economy:** A comprehensive XP system (Aura) that rewards every interaction.
